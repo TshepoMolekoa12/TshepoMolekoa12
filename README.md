@@ -35,7 +35,7 @@ I’m a Software Developer with a strong focus on building full-stack web applic
 ## 📫 Contact
 
 - Email: [tshepomolekoax@gmail.com](mailto:tshepomolekoax@gmail.com)  
-- LinkedIn:   
+- LinkedIn: www.linkedin.com/in/tshepo-elias-molekoa-610aa1320   
 - Portfolio:
 
 ---
