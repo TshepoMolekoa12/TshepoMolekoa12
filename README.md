@@ -38,15 +38,10 @@ I’m a Software Developer with a strong focus on building full-stack web applic
 - LinkedIn: www.linkedin.com/in/tshepo-elias-molekoa-610aa1320   
 - Portfolio:
 
----
-
-> *“Code should not only function — it should add value.”*
-
-Thanks for visiting my profile!
-
 
 ![TshepoMolekoa12's Stats](https://github-readme-stats.vercel.app/api?username=TshepoMolekoa12&theme=merko&show_icons=true&hide_border=false&count_private=true)
 ![TshepoMolekoa12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TshepoMolekoa12&theme=merko&hide_border=false)
+
 ![TshepoMolekoa12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TshepoMolekoa12&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 
