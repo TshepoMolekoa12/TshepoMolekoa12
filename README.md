@@ -44,6 +44,7 @@ I’m a Software Developer with a strong focus on building full-stack web applic
 
 Thanks for visiting my profile!
 
+![TshepoMolekoa12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TshepoMolekoa12&theme=merko&show_icons=true&hide_border=false&layout=compact)
 <!--
 **TshepoMolekoa12/TshepoMolekoa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
