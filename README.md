@@ -29,13 +29,11 @@
 
 ### 🧰 Tools & Frameworks
 ![React](https://img.shields.io/badge/React-blue)
-![React Native](https://img.shields.io/badge/React_Native-black)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![Git](https://img.shields.io/badge/Git-red)
 ![Figma](https://img.shields.io/badge/Figma-pink)
-![Xampp](https://img.shields.io/badge/MySQL-orange)
-![Visual Studio](https://img.shields.io/badge/Visual Studio-blue)
-
+![Xampp](https://img.shields.io/badge/Xampp-orange)
+![Visual Studio](https://img.shields.io/badge/VisualStudio-black)
 ---
 
 ## 📌 Current Focus
