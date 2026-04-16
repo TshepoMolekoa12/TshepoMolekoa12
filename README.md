@@ -12,9 +12,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Advanced Diploma in Information Technology graduate  
-- 💻 Passionate about building web systems and mobile applications  
-- 📱 Currently growing my skills in React & React Native  
+- 🎓 Diploma & Advanced Diploma in Information Technology graduate  
+- 💻 Passionate about building web systems and mobile designs  
+- 📱 Currently growing my skills in React & Nodejs  
 - 🧠 Strong interest in solving real-world problems through technology  
 
 ---
