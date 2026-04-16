@@ -1,61 +1,93 @@
-## Hello World, I'm Tshepo Elias Molekoa👋
 
 
-I’m a Software Developer with a strong focus on building full-stack web applications that solve real-world problems. I’m completing my studies in Information Technology at Vaal University of Technology, with hands-on experience developing solutions across the education, human resources and property sector
 
----
 
-## 💻 About Me
 
-- 🎓 Information Technology graduate who is passionate about coding and system design  
-- 🔨 Building impactful applications for students, property managers and   
-- 🚀 Dedicated to continuous learning, clean code, and creating professional-grade tools  
-- 🧠 Strong interest in user-centric design, responsive UIs and back-end integration
+<h1 align="center">Hi, I'm Tshepo Molekoa 👋</h1>
+
+<p align="center">
+  Software Developer | Web & Mobile Applications | Problem Solver
+</p>
 
 ---
 
-## 🔧 Tech Stack
-
-- Languages & Frameworks: PHP, JavaScript, Python (Flask), HTML5, CSS3, Bootstrap  
-- Databases & Services: MySQL, Firebase, LocalStorage, Google Auth  
-- Tools & Practices: Git, GitHub, DevOps basics, Agile principles, SweetAlert, AOS, Responsive Design
+## 🚀 About Me
+- 🎓 Advanced Diploma in Information Technology graduate  
+- 💻 Passionate about building web systems and mobile applications  
+- 📱 Currently growing my skills in React & React Native  
+- 🧠 Strong interest in solving real-world problems through technology  
 
 ---
 
-## 📌 Notable Projects
+## ⚙️ Tech Stack
 
+### 💻 Languages
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-purple)
+
+### 🧰 Tools & Frameworks
+![React](https://img.shields.io/badge/React-blue)
+![React Native](https://img.shields.io/badge/React_Native-black)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![Git](https://img.shields.io/badge/Git-red)
+![Figma](https://img.shields.io/badge/Figma-pink)
+
+---
+
+## 📌 Current Focus
+- Building real-world full-stack applications  
+- Improving frontend performance and UI/UX  
+- Learning scalable and maintainable system design  
+
+---
+
+## 📈 GitHub Stats
+
+![Tshepo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TshepoMolekoa12&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TshepoMolekoa12&layout=compact)
+
+---
+
+## 📂 Featured Projects
 ### 🏠 Student Accommodation Platform  
 > A full-featured system that connects landlords with students. Includes registration, document uploads, booking management, application status tracking, and admin dashboards.
 
 ### 💬 HerdCare – Health Chatbot  
 > A voice-assisted chatbot built using Flask and CSV-based health data. Provides support for conditions like asthma, diabetes, and glaucoma with chat history and UI customization.
+ 
 
 ---
 
-## 📫 Contact
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/tshepo-elias-molekoa-610aa1320  
+- Email: tshepomolekoax@gmail.com
 
-- Email: [tshepomolekoax@gmail.com](mailto:tshepomolekoax@gmail.com)  
-- LinkedIn: www.linkedin.com/in/tshepo-elias-molekoa-610aa1320   
-- Portfolio:
+---
 
-
-![TshepoMolekoa12's Stats](https://github-readme-stats.vercel.app/api?username=TshepoMolekoa12&theme=merko&show_icons=true&hide_border=false&count_private=true)
-![TshepoMolekoa12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TshepoMolekoa12&theme=merko&hide_border=false)
-
-![TshepoMolekoa12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TshepoMolekoa12&theme=merko&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  ⚡ Consistency > Motivation
+</p>
 
 
-<!--
-**TshepoMolekoa12/TshepoMolekoa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
