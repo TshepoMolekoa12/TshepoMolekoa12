@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Tshepo Molekoa 👋</h1>
 
 <p align="center">
-  Software Developer | Web & Mobile Applications | Problem Solver
+  Software Developer | UI/UX Designer | Problem Solver
 </p>
 
 ---
