@@ -33,6 +33,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![Git](https://img.shields.io/badge/Git-red)
 ![Figma](https://img.shields.io/badge/Figma-pink)
+![Xampp](https://img.shields.io/badge/MySQL-orange)
+![Visual Studio](https://img.shields.io/badge/Visual Studio-blue)
 
 ---
 
