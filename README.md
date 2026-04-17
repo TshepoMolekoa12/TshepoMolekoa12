@@ -70,9 +70,6 @@
 A full-featured system connecting landlords with students.  
 Includes registration, document uploads, booking management, application tracking, and admin dashboards.  
 
-### 💬 HerdCare – Health Chatbot  
-A voice-assisted chatbot built with Flask and CSV-based health data.  
-Supports conditions like asthma, diabetes, and glaucoma with chat history and customizable UI.  
 
 ---
 
