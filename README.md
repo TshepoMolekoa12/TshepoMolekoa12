@@ -54,7 +54,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Server is down)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TshepoMolekoa12&show_icons=true" />
